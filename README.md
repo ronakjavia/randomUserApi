@@ -1,4 +1,4 @@
-## [Random User Profile]("https://papaya-semolina-7e8a05.netlify.app")
+## [Random User Profile](https://papaya-semolina-7e8a05.netlify.app)
 
 # Getting Started with Create React App
 
